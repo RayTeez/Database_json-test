@@ -1,0 +1,16 @@
+[
+    {
+        "name":"Thomas",
+        "text":"I like JS",
+        "age":23
+    },
+    {
+        "name":"Brandy",
+        "text":"I like Thomas",
+        "age":19
+    },
+    {
+        "name":"Bruce",
+        "text":"I need a Movies",
+        "age":24}
+]
